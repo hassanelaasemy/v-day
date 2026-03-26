@@ -129,6 +129,11 @@ h1 {
 
     transition: transform 0.15s, box-shadow 0.15s;
     box-shadow: 0 6px 20px rgba(76, 175, 80, 0.45);
+
+      /* ✅ ADD THESE */
+    white-space: normal;
+    word-break: break-word;
+    text-align: center;
 }
 
 #yes-btn:hover {
